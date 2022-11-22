@@ -1,3 +1,5 @@
+Owner of [Yetric AB](https://yetric.se)
+
 20+ of work experience. Former EA, DICE, Embark Studios, King, bwin, Ongame, 3 etc. Runs my own business (Yetric AB). Blogs sometimes at https://yetric.net
 
 - 🎮 Building games for a living since more than 10 years ago 
