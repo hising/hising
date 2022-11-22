@@ -7,5 +7,6 @@
 - ⚡ Fun fact: Quite the Candy Crush Player, Father of three, procrastinator, business owner, built a house, runs marathons from time to time
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hising&hide=hlsl,shaderlab,php&theme=gruvbox)
+![Stats](https://github-readme-stats.vercel.app/api?username=hising&show_icons=true&theme=gruvbox)
 
 <a rel="me" target="_blank" href="https://mastodon.se/@hising">Mastodon</a>
