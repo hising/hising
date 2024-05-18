@@ -1,6 +1,6 @@
 Owner of [Yetric AB](https://yetric.se)
 
-Owner of @yetric. Product & UX expert with 25+ years in top tech companies (EA, DICE, King). Passionate about user-focused design and automation. Worked on AAA titles like Battlefield and Star Wars: Battlefront. Strategic laziness advocate—automate everything!
+Product & UX expert with 25+ years in top tech companies (EA, DICE, King). Passionate about user-focused design and automation. Worked on AAA titles like Battlefield and Star Wars: Battlefront. Strategic laziness advocate—automate everything!
 
 Tries to focus on being pragmatic, helping peers, and building great teams.
 
